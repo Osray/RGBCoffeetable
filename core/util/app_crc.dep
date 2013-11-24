@@ -1,0 +1,2 @@
+core/util/app_crc.dep core/util/app_crc.o core/util/app_crc.E core/util/app_crc.s: core/util/app_crc.c config.h autoconf.h pinning.c \
+  core/util/app_crc.h

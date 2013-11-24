@@ -1,0 +1,2 @@
+hardware/avr/fuse_ecmd.dep hardware/avr/fuse_ecmd.o hardware/avr/fuse_ecmd.E hardware/avr/fuse_ecmd.s: hardware/avr/fuse_ecmd.c pinning.c \
+  protocols/ecmd/ecmd-base.h

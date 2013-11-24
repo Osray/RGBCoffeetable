@@ -1,0 +1,2 @@
+core/util/byte2hex.dep core/util/byte2hex.o core/util/byte2hex.E core/util/byte2hex.s: core/util/byte2hex.c config.h autoconf.h pinning.c \
+  core/util/byte2hex.h

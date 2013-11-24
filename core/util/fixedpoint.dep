@@ -1,0 +1,2 @@
+core/util/fixedpoint.dep core/util/fixedpoint.o core/util/fixedpoint.E core/util/fixedpoint.s: core/util/fixedpoint.c config.h autoconf.h pinning.c \
+  core/util/fixedpoint.h
